@@ -1,6 +1,9 @@
 # Groww
 
-A new Flutter project.
+Teck-Stack:
+**Frontend: flutter, dart**
+**Backend: Typescript**
+**Database: Postgresql**
 
 ## Overview
 
