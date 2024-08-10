@@ -15,7 +15,7 @@ Groww is a Flutter-based application that aims to provide users with a seamless 
 - **SIP Calculator:** A tool for calculating the maturity amount and total investment for Systematic Investment Plans (SIPs).
 
 ### For using LogIn/SignUp Feature 
-- you have to create a PostgreSQL server on Local System
+- you have to run a PostgreSQL server on Local System
 - Open lib/main.dart  and change **home: Stockpage()** to **home: LoginScreen()**
 - open lib/postgreSQL.SQL.dart and fill it with your Database name , User and Password
   ```bash
